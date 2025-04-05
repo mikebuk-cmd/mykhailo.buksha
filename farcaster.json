@@ -1,0 +1,14 @@
+{
+  "accountAssociation": {},
+  "frame": {
+    "version": "1",
+    "name": "Yoink!",
+    "iconUrl": "https://yoink.party/logo.png",
+    "homeUrl": "https://channelsense-kiwgijjt2-mikebuk-cmds-projects.vercel.app",
+    "imageUrl": "https://yoink.party/logo.png",
+    "buttonTitle": "🚩 Start",
+    "splashImageUrl": "https://yoink.party/logo.png",
+    "splashBackgroundColor": "#f5f0ec",
+    "webhookUrl": "https://channelsense-kiwgijjt2-mikebuk-cmds-projects.vercel.app/webhook"
+  }
+}
